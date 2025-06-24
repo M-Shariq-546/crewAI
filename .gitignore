@@ -3,7 +3,6 @@
 __pycache__
 dist/
 lib/
-.env
 assets/*
 .idea
 test/
@@ -15,7 +14,6 @@ test.py
 rc-tests/*
 *.pkl
 temp/*
-.vscode/*
 crew_tasks_output.json
 .codesight
 .mypy_cache
@@ -27,3 +25,5 @@ crewairules.mdc
 plan.md
 conceptual_plan.md
 build_image
+config.bat
+node_modules
